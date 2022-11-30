@@ -73,4 +73,4 @@ document.write('Welcome' + a);
 
         alert("Times up, game is about to end")
     
-    }, 20000);
+    }, 40000);
